@@ -64,9 +64,9 @@ python main.py
 ✔ Dashboard analítico conectado a SQLite
 
 # Grupo 11
-Paula Andrea Arciniegas Cárdenas
-Isabella Carranza Tapiero
-Valeria Morales
+- Paula Andrea Arciniegas Cárdenas
+- Isabella Carranza Tapiero
+- Valeria Morales
  
 Universidad de La Sabana
 Programación y Decisiones — 2026-1
